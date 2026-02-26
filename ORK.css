@@ -62,6 +62,7 @@ body {
     opacity: 0;
     animation: slideFromLeft 0.8s ease-out forwards;
     background-color:  #1f3a93;
+    border-radius: 20px;
 }
 
 @keyframes slideFromLeft {
@@ -82,8 +83,6 @@ body {
     background-color: #1f3a93;
     padding: 15px 30px;
     box-shadow: 5px 5px 5px rgb(96, 115, 255);
-    
-
 }
 .logo {
     color: #d6e9ff;
